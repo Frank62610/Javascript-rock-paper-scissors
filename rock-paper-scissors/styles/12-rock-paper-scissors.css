@@ -18,7 +18,7 @@ body {
   border: 3px solid white;
   width: 120px;
   height: 120px;
-  border-radius: 60px;
+  border-radius: 20px;
   margin-right: 10px;
   cursor: pointer;
 }
@@ -27,6 +27,7 @@ body {
   font-size: 25px;
   font-weight: bold;
   margin-top: 50px;
+  margin-left: 80px;
 }
 
 .score {
